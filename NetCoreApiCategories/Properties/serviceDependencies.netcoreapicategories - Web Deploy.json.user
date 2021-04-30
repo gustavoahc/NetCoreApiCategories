@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-04-28T16:23:49.9809667Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "netcoreapi-rg"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "67fb792d-4176-43b4-813d-f3bf149e2361"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\gustavo.hernandez\Documents\Visual Studio 2019\Projects\NetCoreApiCategories\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
